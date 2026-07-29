@@ -32,33 +32,17 @@ ambiguity, no "you'll figure it out."
 
 </details>
 
-<details>
-<summary><b>You opened this one deliberately, so: hello.</b></summary>
-
-Genuinely, hello. You are in a small group.
-
-Two things, since you're here.
-
-The first is that most of what I know how to do is unglamorous: reading a protocol spec
-properly, writing the runbook before I need it, and being specific about what does not work
-yet. None of that photographs well. All of it is the job.
-
-The second is that there is one more of these. It is not on this page.
-
-People tend to find it by reading the source rather than the render.
-
-</details>
-
 ## Elsewhere
 
 - **Dreangine**: [dreangine.xyz](https://dreangine.xyz)
 - **Email**: omar@buede.name
+- **Code**: you're standing in it
 
 <!--
 
 You read the source. Of course you did.
 
-That is the last one, and it is not in this file:
+There is one more thing, and it is not in this file:
 
     .well-known/humans.txt
 
