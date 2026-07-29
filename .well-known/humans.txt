@@ -1,0 +1,43 @@
+/* HUMAN */
+
+  Name      Omar
+  Location  Finland
+  Contact   omar@buede.name
+  Company   Dreangine
+  Site      https://dreangine.xyz
+
+  You found the last one. There is nothing after this, which is
+  itself a kind of feature. Pages should end.
+
+
+/* HOW THIS PAGE WAS BUILT */
+
+  Markdown, and the small subset of HTML that GitHub still trusts.
+  No CSS, because GitHub strips it. No JavaScript, for the same
+  reason, and honestly it is a better page for the loss.
+
+  Everything foldable is a <details> element. That was not a
+  styling decision. A <details> announces itself to a screen
+  reader, opens with a keyboard, and shows a short version to
+  anyone who does not want the long one. Hidden text and
+  zero-width characters would have been cheaper and would have
+  broken all three of those.
+
+  Total network requests to third parties: zero.
+  Total pixels tracking you: zero.
+  Fonts loaded from a CDN that logs your IP: zero.
+
+  This was not difficult. That is rather the point, and it is the
+  same point Dreangine is built on.
+
+
+/* THANKS */
+
+  humanstxt.org, for the format and for the idea behind it.
+  The people who write protocol specifications carefully.
+  Everyone who has ever shipped an export button that worked.
+
+
+/* ALSO */
+
+  Written with Claude, and said so on the front page.
